@@ -1,0 +1,12 @@
+{
+    "name": "pguid",
+    "version": "0.0.1",
+    "license": "MIT",
+    "private": true,
+    "author": "shukri.adams@gmail.com",
+    "description" : "Pretty good unique ids for javascript",
+    "repository" : {
+        "url" : "https://github.com/shukriadams/pguid.git",
+        "type" : "git"
+    }
+}
